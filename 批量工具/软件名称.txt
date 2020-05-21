@@ -1,0 +1,3 @@
+Aegisub-3.1.3-32.exe
+MediaCoder-Premium-x64-5932.exe
+VideoThumbnailsMaker.exe
